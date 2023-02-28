@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-os.system("git clone https://theriturajps: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@github.com/theriturajps/TPB-Torrent-Bot ok && cd ok && pip3 install -U -r requirements.txt && nohup python torrent.py &")
+os.system("git clone https://theriturajps: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@github.com/theriturajps/TPB-Torrent-Bot ok && cd ok && pip3 install -U -r requirements.txt && nohup python torrent.py &")
